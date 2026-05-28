@@ -19,7 +19,7 @@ keywords?
     step 2: save metadata to inodes
     step 3:flip bitmaps to taken
     step 4:save the file to the data reigon
-## elements I have to add
+## elements planned to add
     bitmaps - stored as a diecctory
         -inode 
         -data reigon
